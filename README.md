@@ -32,4 +32,5 @@ python main.py
 <img width="896" height="669" alt="Cuplikan layar 2026-07-07 054647" src="https://github.com/user-attachments/assets/9ea08d59-4a35-41bf-854b-d122b461c200" />
 
 по 10 пикселям
+
 <img width="892" height="676" alt="9Cuplikan layar 2026-07-08 163043" src="https://github.com/user-attachments/assets/ac0bc397-fc5e-4a96-803c-b9cb53b86330" />
